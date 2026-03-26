@@ -27,9 +27,6 @@
         <a href="https://www.instagram.com/pavelitel05/">
         <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white"/>
         </a>
-        <a href="https://twitter.com/Pavelitel_">
-            <img src="https://img.shields.io/badge/twitter-gray?logo=twitter&logoColor=white"/>
-        </a>
         <a href="https://t.me/pavelitel05">
             <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white"/>
         </a>
