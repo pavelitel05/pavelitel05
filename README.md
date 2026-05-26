@@ -8,7 +8,7 @@ Building backend systems, REST APIs and Telegram applications.
 
 Currently creating scalable backend services using Java & Spring ecosystem.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enjoyer;Telegram+Bot+Creator;Building+pet+projects+and+real+systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enjoyer;Telegram+Bot+Creator"/>
 
 <br>
 
