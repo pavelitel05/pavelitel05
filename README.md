@@ -54,30 +54,35 @@ Backend for multiplayer Telegram mini-game with:
 
 ---
 
-### 🤖 HaveBot
+### 📚 School Electronic Diary
 
-Telegram productivity platform:
+Full-stack school platform with custom backend and modern frontend.
 
-- tasks
-- lessons
-- score system
-- streaks
-- moderator tools
+Features:
+
+- authentication & user roles
+- students / teachers / parents system
+- grades and homework tracking
+- schedules and notifications
+- REST API
+- Spring Boot backend
 
 🔗 Repository: [coming soon](#)
 
 ---
 
-### 📊 Encar Parser
+### 🍎 Calorie Tracker API + Telegram Bot
 
-Backend service for importing and processing automotive data.
+Smart nutrition tracking system with API and Telegram integration.
 
 Features:
 
-- migration generation
-- parsing
-- JPA entities
-- SQL processing
+- calorie calculation
+- meal tracking
+- nutrition analytics
+- Telegram bot interface
+- user progress system
+- Spring Boot + PostgreSQL
 
 🔗 Repository: [coming soon](#)
 
