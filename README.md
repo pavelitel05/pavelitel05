@@ -88,18 +88,6 @@ Features:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height=170 src="https://github-readme-stats.vercel.app/api?username=pavelitel05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavelitel05&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📊 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavelitel05&theme=tokyo-night&hide_border=true"/>
